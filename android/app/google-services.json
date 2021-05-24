@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204223539033",
+    "project_id": "cool-68cbf",
+    "storage_bucket": "cool-68cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204223539033:android:f5069afcc87a21cf2bce48",
+        "android_client_info": {
+          "package_name": "appbrewery.fluuterandfirebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204223539033-9ok9hqjqogr6choksigdurak4htrrlle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvZmLl46Z5UIpctB3HDd2Sbq3kujSRwZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204223539033-9ok9hqjqogr6choksigdurak4htrrlle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
